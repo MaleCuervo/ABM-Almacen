@@ -1,0 +1,67 @@
+﻿<Window x:Class="AlmacenDR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="TP - Parcial 'ABM en WPF'  Ingenieria de Software- IFTS 18 2° Año | Cuervo Alejandra" Height="700" Width="900" Background="Black" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Width" Value="160"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Width" Value="250"/>
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+    </Window.Resources>
+    <Window.BorderBrush>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="Black" Offset="0"/>
+            <GradientStop Color="#FF3A3737" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.BorderBrush>
+    <DockPanel Name="dockMain" VerticalAlignment="top" HorizontalAlignment="Center" LastChildFill="False">
+        <StackPanel>
+            <Label Content="Almacen de Ropa 1.0" HorizontalAlignment="Center" FontSize="36" FontWeight="Bold" FontFamily="Verdana" Foreground="#FF15FFB4"></Label>
+            <WrapPanel>
+                <TextBlock Text="Codigo: " Foreground="#FF2FF012" FontSize="24" FontWeight="Bold" FontFamily="Verdana"/>
+                <TextBox Name="txtCodigo" />
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Nombre : " FontFamily="Verdana" FontSize="24" Foreground="#FF39F71B" FontWeight="Bold"/>
+                <TextBox Name="txtNombre" />
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Prenda: " Foreground="#FF28FB08" FontFamily="Verdana" FontSize="24" FontWeight="Bold"/>
+                <ComboBox FontSize="20" Name="ComboRopa" Width="250" Margin="10" SelectionChanged="ComboRopa_SelectionChanged">
+                    <ComboBoxItem Content="Tipo Prenda" Selector.IsSelected="True" />
+                    <ComboBoxItem Content="Pantalon"/>
+                    <ComboBoxItem Content="Camisa" />
+                    <ComboBoxItem Content="Remera" />
+                    <ComboBoxItem Content="Bermuda" />
+                </ComboBox>
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Cantidad : " Foreground="#FF23F503" FontFamily="Verdana" FontSize="24" FontWeight="Bold"/>
+                <TextBox Name="txtCantidad" />
+            </WrapPanel>
+            <WrapPanel>
+                <TextBlock Text="Precio: " FontFamily="Verdana" FontSize="24" Foreground="#FF20F300" FontWeight="Bold"/>
+                <TextBox Name="txtPrecio" TextWrapping="Wrap" AcceptsReturn="True" Height="25" Width="103" />
+            </WrapPanel>
+            <WrapPanel Margin="0" HorizontalAlignment="Center" Height="59">
+                <Button Name="btnNuevo" Content="Nuevo" FontSize="25" Width="120" Margin="5" Click="btnNuevo_Click" Foreground="#FF171616" Background="#FF83F90D" BorderBrush="#FF5959B6" FontFamily="Verdana" FontWeight="Bold" >
+
+                </Button>
+                <Button Name="btnEditar" Content="Editar" FontSize="25" Width="120" Margin="5" Click="btnEditar_Click" Background="#FF33F1F1" FontWeight="Bold" />
+                <Button Name="btnEliminar" Content="Eliminar" FontSize="25" Width="125" Margin="5" Click="btnEliminar_Click" Background="#FFFD2705" FontFamily="Verdana" FontWeight="Bold" Foreground="White" />
+                <Button Name="btnCancel" Content="Cancelar" FontSize="25" Width="129" Margin="5" Click="btnCancelar_Click" Background="#FFC9BEBC" FontFamily="Verdana" FontWeight="Bold" />
+                <Button Name="btnSalir" Content="Salir" FontSize="25" Width="120" Margin="5" Background="#FFFF1212" Foreground="#FFFDEFDF" Click="btnSalir_Click" FontWeight="Bold" />
+            </WrapPanel>
+            <Label Content="No se Encontraron Registros" Name="labelsindatos" HorizontalAlignment="Center" FontSize="16" FontWeight="Bold" Foreground="#FFE10000"></Label>
+            <WrapPanel Margin="20" HorizontalAlignment="Center">
+                <DataGrid AutoGenerateColumns="True" Name="VistaDatos" SelectionMode="Single" FontSize="15" Padding="5" Background="Black" />
+            </WrapPanel>
+        </StackPanel>
+    </DockPanel>
+</Window>

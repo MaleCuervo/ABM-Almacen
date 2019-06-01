@@ -1,0 +1,58 @@
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\bin\Debug\AlmacenDB.mdb
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\AlmacenDeRopa.csproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Snow\Desktop\Inventario\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\bin\Debug\AlmacenDB.mdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\AlmacenDeRopa.csproj.GenerateResource.Cache
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\bin\Debug\Almacen De Ropa.exe.config
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\bin\Debug\Almacen De Ropa.exe
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\bin\Debug\Almacen De Ropa.pdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\Almacen De Ropa_Content.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\Almacen De Ropa_MarkupCompile.cache
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\Almacen De Ropa.g.resources
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\AlmacenDeRopa.Properties.Resources.resources
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\Almacen De Ropa.exe
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\WpfApplication2\obj\Debug\Almacen De Ropa.pdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.exe.config
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.exe
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.pdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\AlmacenDB.mdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.exe
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.pdb
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.csprojResolveAssemblyReference.cache
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\MainWindow.baml
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\MainWindow.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\App.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa_Content.g.cs
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa_MarkupCompile.cache
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.g.resources
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.Properties.Resources.resources
+C:\Users\Snow\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.csproj.GenerateResource.Cache
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.exe.config
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.exe
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.pdb
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\AlmacenDB.mdb
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.exe
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\bin\Debug\Almacen De Ropa.pdb
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.csprojResolveAssemblyReference.cache
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\MainWindow.baml
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\MainWindow.g.cs
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\App.g.cs
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa_Content.g.cs
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa_MarkupCompile.cache
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\Almacen De Ropa.g.resources
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.Properties.Resources.resources
+C:\Users\Maleja\Desktop\Parcial Ing Software Access - C# ABM\Almacen de Ropa\obj\Debug\AlmacenDeRopa.csproj.GenerateResource.Cache
